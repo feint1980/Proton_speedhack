@@ -10,6 +10,7 @@ Please don't try to use this on any online-game.
 If you are not a programmer, just want to download the speedhack, here is the release link : https://github.com/feint1980/Proton_speedhack/releases
 
 Installation
+------------
 Installing Compatability Tool
 In order to install the compatability tool you should do the following (if on a standard Steam Deck setup)
 
