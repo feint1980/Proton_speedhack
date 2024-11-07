@@ -8,7 +8,7 @@ Well, I have a Steamdeck (OLED btw, low-key flex), in some games it does not per
 Please don't try to use this on any online-game.
 
 Why this fork ? 
-Since LtSquigs hasn't create the version proton-9 yet, which is required to run Black Myth Wukong, I decided to do it myself.
+Since LtSquigs hasn't create the version proton-9 yet, which is required to run Black Myth Wukong
 
 If you are not a programmer, just want to download the speedhack, here is the release link : https://github.com/feint1980/Proton_speedhack/releases
 
